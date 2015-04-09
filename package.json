@@ -1,0 +1,37 @@
+{
+  "name": "goggles",
+  "version": "0.0.0",
+  "description": "a custom button toolkit",
+  "main": "gruntfile.js",
+  "dependencies": {
+    "autoprefixer": "^5.1.0",
+    "autoprefixer-core": "^5.1.8",
+    "grunt": "^0.4.5",
+    "grunt-postcss": "^0.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/rintzzy/goggles"
+  },
+  "keywords": [
+    "custom",
+    "css",
+    "button",
+    "shadow",
+    "button",
+    "metro",
+    "goggles",
+    "somnath",
+    "mukherjee"
+  ],
+  "author": "Somnath Mukherjee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rintzzy/goggles/issues"
+  },
+  "homepage": "https://github.com/rintzzy/goggles"
+}

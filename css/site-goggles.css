@@ -1,0 +1,43 @@
+@charset "utf-8";
+/* CSS Document */
+@font-face{
+            font-family:"Capsuula";
+            src:url("../fonts/capsuula-webfont.eot");
+			src:url("../fonts/capsuula-webfont.eot?#iefix") format("embedded-opentype"),
+				url("../fonts/capsuula-webfont.woff") format("woff"),
+				url("../fonts/capsuula-webfont.ttf") format("truetype"),
+				url("../fonts/capsuula-webfont.svg") format("svg");
+            font-weight:normal;
+        }
+@font-face{
+            font-family:"Genius";
+            src:url("../fonts/genius-100-thin-webfont.eot");
+			src:url("../fonts/genius-100-thin-webfont.eot?#iefix") format("embedded-opentype"),
+				url("../fonts/genius-100-thin-webfont.woff") format("woff"),
+				url("../fonts/genius-100-thin-webfont.ttf") format("truetype"),
+				url("../fonts/genius-100-thin-webfont.svg") format("svg");
+            font-weight:normal;
+        }
+		
+.imgLoaded{margin-top:0 !important;}
+#slideme{margin-bottom:0 !important;}
+.camera_pag{margin-top:-61px !important;}
+#site-features{padding-top:30px; padding-bottom:30px; background:url(../images/white_leather.png);}
+h2{color:#fff; font-family:"Genius","Segoe UI Light"; margin-top:0;}
+h3{font-family:"Segoe UI"; color:727271;}
+#site-features h3{font-family:"OpenSans-light","Segoe UI Light"; color:#727271;}
+#site-features p{font-family:"OpenSans-regular","Segoe UI"; color:#333;}
+#intro{background:#a1cff9; padding-top:30px; padding-bottom:30px;}
+#name{border-left:5px solid #ee277b; padding-left:5px;}
+#usage{padding-top:30px; padding-bottom:30px; background:url(../images/diagonal_waves.png) repeat;}
+#docs{padding-top:30px; padding-bottom:30px; background:#aeef69;}
+#compat{padding-top:30px; padding-bottom:30px; background:#a25eb5;}
+#contact{padding-top:30px; padding-bottom:30px; background:url(../images/blackmamba.png) repeat;}
+#contact p{color:#d3d0d4;}
+#social p i{color:gray; padding-right:5px;}
+#social p a:nth-of-type(1) i:hover{color:#3b5998;}
+#social p a:nth-of-type(2) i:hover{color:#20b8ff;}
+#social p a:nth-of-type(3) i:hover{color:#007bb6;}
+#social p a:nth-of-type(4) i:hover{color:#b93936;}
+#footnav{margin-top:26px;}
+#footnav li:not(:last-child){border-right:1px dotted hotpink;}
